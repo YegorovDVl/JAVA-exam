@@ -1,0 +1,11 @@
+<cfg>
+    <books>
+        <book>"1984"</book>
+        <book>"Island"</book>
+        <book>"We"</book>
+    </books>
+    <booksToBuy>
+        <book>"1984"</book>
+    </booksToBuy>
+    <status>false</status>
+</cfg>
